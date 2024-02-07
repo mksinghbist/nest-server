@@ -1,0 +1,18 @@
+{
+    "Rooms":[
+        {   
+            "Id": 1,
+            "Type": "Deluxe",
+            "Name": "Luxury",
+            "Area": "400sqft",
+            "Number": 112 
+        },
+        {   
+        "Id": 2,
+        "Type": "Single",
+        "Name": "Luxury",
+        "Area": "300sqft",
+        "Number": 201 
+        }
+    ]
+}
